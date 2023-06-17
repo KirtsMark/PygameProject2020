@@ -1,4 +1,4 @@
-<h1>PygameProject2021</h1>
+<h1>PygameProject2020</h1>
 
 <p>A python student project developed during my first year of King Mongkut's Institute of Technology Ladkrabang(KMITL) in December 2020.</p>
 
