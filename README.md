@@ -12,6 +12,5 @@
   Because I developed the game during my first year there is no level or limit to the game, and will only stop once the player has run out of lives. The game also has a highscore system that stores the highest number of points per specific spaceship character. If the player is able to surpass that high score, they replace the old high score.
 </p>
 <h2> Preview </h2>
-<p>
-  
-</p>
+![image1](https://github.com/KirtsMark/PygameProject2021/assets/77389633/4a43173a-1050-4ac1-b482-f8a4510f7ff6)
+<br />
