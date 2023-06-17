@@ -22,13 +22,13 @@
 
 <h2> Preview </h2>
 
-![image1](https://github.com/KirtsMark/PygameProject2021/assets/77389633/6c81f8b7-284a-43ea-acc4-ce015566a9c3)
-![image2](https://github.com/KirtsMark/PygameProject2021/assets/77389633/b875fee8-62ea-4245-957c-92f62372d520)
-![image3](https://github.com/KirtsMark/PygameProject2021/assets/77389633/f480bf30-a728-4785-818b-947de2d5e59f)
-![image4](https://github.com/KirtsMark/PygameProject2021/assets/77389633/f7c6af72-a737-46f0-9104-f1b6128a2166)
-![image5](https://github.com/KirtsMark/PygameProject2021/assets/77389633/4a43173a-1050-4ac1-b482-f8a4510f7ff6)
-![image6](https://github.com/KirtsMark/PygameProject2021/assets/77389633/db9c5ddf-3076-4f79-b8d7-c781404a714b)
-![image7](https://github.com/KirtsMark/PygameProject2021/assets/77389633/bec413aa-8f62-462c-a759-150b644c25a8)
+![image1](https://github.com/KirtsMark/PygameProject2020/assets/77389633/bb27ae90-9fb4-4531-9afe-9f4e75ca6a6f)
+![image2](https://github.com/KirtsMark/PygameProject2020/assets/77389633/9e2880eb-48d1-40e5-8a72-2ca585970756)
+![image3](https://github.com/KirtsMark/PygameProject2020/assets/77389633/e33af55c-2112-48a7-9b57-a5098cc267e9)
+![image4](https://github.com/KirtsMark/PygameProject2020/assets/77389633/24dba08b-b15b-4335-bd0e-16a586615b51)
+![image5](https://github.com/KirtsMark/PygameProject2020/assets/77389633/3c82c70c-c438-41b9-832d-ca8b061a4fc3)
+![image6](https://github.com/KirtsMark/PygameProject2020/assets/77389633/2fea86b2-14ef-41ed-befa-b6b3b1eed6d2)
+![image7](https://github.com/KirtsMark/PygameProject2020/assets/77389633/2a76c854-43ef-4057-b6e8-4cc92534807f)
 
 <br />
 
